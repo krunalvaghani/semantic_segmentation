@@ -22,6 +22,7 @@ There are few pixel wise annotated labeled datasets are avilable publicly.
 |[Apollo Scape](http://arxiv.org/abs/1803.06184)|	147k|	36|	No|	Daylight, snow, rain, foggy|
 |[BDD100K](http://arxiv.org/abs/1805.04687)     |	8000|	19|	Yes|	Daylight, rain, snow, fog, haze, dawn, dusk and night|
 
+For detailed information https://autonomous-driving.org/2018/07/15/semantic-segmentation-datasets-for-urban-driving-scenes/
 
 **Pre-trained semantic segmentation network on the Cityscape dataset**
 
